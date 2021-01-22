@@ -1,0 +1,5 @@
+ Sinan Ganiz  ; Istanbul, Turkiye  ; 465789 ; 0555555; ;
+ Selcuk Ganiz  ; Ankara  ; 11002233 ; 6541123698 ;
+ Tuncay Damlar  ; Ankara  ; 112569 ; 5454545; ;
+ Ali ; Zonguldak ; 01234567 ; 014578 ;
+ test kaydi ; Turkiye ; 1111 ; 222 ;
